@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackDean21
-- 👀 I’m interested in learning new programming languages and more about software development in general. 
+- 👀 I’m interested in learning new programming languages and game development. 
 - 🌱 I’m currently learning C# ...
 - 📫 @jackhdean21@gmail.com ...
 
